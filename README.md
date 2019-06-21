@@ -5,11 +5,10 @@ Check out the new style for App Design aims for Banking Application...😉😀�
 
 **Please click the image below to enlarge.**
 
-<img src="Screenshot/Screenshot1.jpg" height="600" width="300" hspace="40"><img src="Screenshot/Screenshot2.jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_190817_com.vimalinc.vimalbankui.jpg" height="600" width="300" hspace="40"><img src="Screenshots/Screenshot_20190620_190820_com.vimalinc.vimalbankui.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshot/Screenshot3.jpg" height="600" width="300" hspace="40"><img src="Screenshot/Screenshot4.jpg" height="600" width="300" hspace="40">
+<img src="Screenshots/Screenshot_20190620_190826_com.vimalinc.vimalbankui.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshot/Screenshot5.jpg" height="600" width="300" hspace="40">
 ## Contributing
 
 Please fork this repository and contribute back using
